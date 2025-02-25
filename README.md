@@ -48,11 +48,12 @@ Beyond basic graph construction, this project adds an **interactive query featur
 - **Community detection results:** `./results/communities.csv`
 - **Knowledge graph output:**
 <div style="text-align: center;">
-  <img src="https://github.com/EnhongLiu/Build_Knowledge_Graphs_From_Unstructured_Data_With_Semantic_Filtering/blob/ed4c3cb23f4d45b60be1f17755ba0b0e2165f10a/z_assets/Graph.png" width="700" height="auto">
+  <img src="https://github.com/EnhongLiu/Build_Knowledge_Graphs_From_Unstructured_Data_With_Semantic_Filtering/blob/ed4c3cb23f4d45b60be1f17755ba0b0e2165f10a/z_assets/Graph.png" width="500" height="auto">
 </div> 
+
 - **Subgraph output after query filtering:**  
 <div style="text-align: center;">
-  <img src="https://github.com/EnhongLiu/Build_Knowledge_Graphs_From_Unstructured_Data_With_Semantic_Filtering/blob/ed4c3cb23f4d45b60be1f17755ba0b0e2165f10a/z_assets/SubGraph.png" width="700" height="auto">
+  <img src="https://github.com/EnhongLiu/Build_Knowledge_Graphs_From_Unstructured_Data_With_Semantic_Filtering/blob/ed4c3cb23f4d45b60be1f17755ba0b0e2165f10a/z_assets/SubGraph.png" width="500" height="auto">
 </div> 
 
 ---
