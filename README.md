@@ -23,7 +23,7 @@ The workflow consists of the following steps:
 ### Visualization
 - Inspired by the **Microsoft GraphRAG** project, allowing clear graph structure representation
 
-## 🧠 Interactive Knowledge Graph: Query and Filter
+## 🧠 Filter Knowledge Graph via Query
 
 Beyond basic graph construction, this project adds an **interactive query feature** — enabling users to "talk" to the knowledge graph and retrieve related sub-graphs.
 
