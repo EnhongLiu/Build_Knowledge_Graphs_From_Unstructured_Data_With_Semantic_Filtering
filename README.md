@@ -36,7 +36,7 @@ Beyond basic graph construction, this project adds an **interactive query featur
 3. **Retrieval:** The system retrieves the top 100 related nodes along with their edges and communities.
 4. **Sub-Graph Extraction:** Outputs the relevant sub-graph for visualization and further analysis.
 
-##(🎯  Sample Output
+## 🎯 Sample Output
 
 - **Graph data (CSV):** Stored in `./data/graph_nodes.csv` and `./data/graph_edges.csv`
 - **Community detection results:** `./results/communities.csv`
