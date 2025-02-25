@@ -6,21 +6,21 @@ Welcome to this repository! This project demonstrates how to build a **knowledge
 
 The workflow consists of the following steps:
 
-### Preprocessing
+### 1. Preprocessing
 - Cleaning text data
 - Chunking into manageable sections
 - Tagging with metadata and assigning UUIDs for tracking
 
-### Node and Edge Extraction
+### 2. Node and Edge Extraction
 - Using **LLM (LLaMA 70B was used in this project but you can choose anyone fitting your machine)** to identify entities (nodes) and their relationships (edges)
 
-### Graph Data Storage
+### 3. Graph Data Storage
 - Storing graph data in **CSV format** for simplicity (avoiding complex stacks like Neo4j to keep the stack minimal and focus on core concepts, ensuring this project remains easy to run and extend without complicated dependencies.)
 
-### Community Detection
+### 4. Community Detection
 - Applying the **Leiden algorithm** to identify clusters or communities within the graph
 
-### Visualization
+### 5. Visualization
 - Inspired by the **Microsoft GraphRAG** project, allowing clear graph structure representation
 
 ## 🧠 Filter Knowledge Graph via Query
