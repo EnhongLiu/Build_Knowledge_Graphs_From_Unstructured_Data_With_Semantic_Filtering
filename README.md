@@ -12,7 +12,7 @@ The workflow consists of the following steps:
 - Tagging with metadata and assigning UUIDs for tracking
 
 ### 2. Node and Edge Extraction
-- Using **LLM (LLaMA 70B was used in this project but you can choose anyone fitting your machine)** to identify entities (nodes) and their relationships (edges)
+- Using **LLM (`LLaMA 70B` was used in this project but you can choose any LLM fitting your machine)** to identify entities (nodes) and their relationships (edges)
 
 ### 3. Graph Data Storage
 - Storing graph data in **CSV format** for simplicity (avoiding complex stacks like Neo4j to keep the stack minimal and focus on core concepts, ensuring this project remains easy to run and extend without complicated dependencies.)
