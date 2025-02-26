@@ -44,7 +44,7 @@ Beyond basic graph construction, this project adds an **interactive query featur
 
 ## 🎯 Sample Output
 
-- **Sample Graph nodes and edges, along with metadata:** Stored in `./results/graph_nodes.csv`
+- **Sample Graph nodes and edges, along with metadata:** Stored in `./results/example_nodes_edges.csv`
 - **Sample Community detection results:** `./results/communities.csv`
 - **Knowledge graph output:**
 <div style="text-align: center;">
